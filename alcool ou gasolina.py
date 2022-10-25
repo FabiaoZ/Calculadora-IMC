@@ -5,7 +5,7 @@ print("=" * 198)
 
 a = Alcool/Gasolina
 
-if a <= 0.7:
+if a >= 0.7:
     print("Gasolina")
 else:
     print("Alcool")
